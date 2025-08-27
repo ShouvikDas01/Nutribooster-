@@ -87,14 +87,6 @@ NutriBooster/
 
 ---
 
-## 📸 Demo
-![alt text](image.png)
-![alt text](image-1.png)
-![alt text](image-2.png)
-![alt text](image-4.png)
-![alt text](image-3.png)
----
-
 ## 📄 License
 This project was created as part of my coursework.  
 Feel free to explore and learn from the code.  
@@ -105,3 +97,4 @@ Feel free to explore and learn from the code.
 **Shouvik Das**  
 - MSc in Computer Science, 2024
 - GitHub: [ShouvikDas01](https://github.com/ShouvikDas01)  
+
